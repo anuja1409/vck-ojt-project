@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../components/Header/Headers';
-import Footer from "../components/Footer/Footers";
 import './ContactPage.css'
+import Footers from '../components/Footer/Footers';
 const ContactPage = () => { 
     return(
       <div class="demo">
@@ -49,7 +49,7 @@ const ContactPage = () => {
   
 
   </div>
-  <Footer/>
+  <Footers/>
   </div>
 )
 }

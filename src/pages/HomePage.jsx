@@ -11,9 +11,9 @@ const HomePage = () => {
     <div className="home-scroll-container">
                 <div className="Page-container">
         <div className="hero-section">
-          <img src="\images\WhatsApp Image 2025-06-23 at 10.35.16 AM.jpeg" className="abcd" height="300px" weidth="500px"></img>
+          <img src="\images\WhatsApp Image 2025-06-23 at 10.35.16 AM.jpeg" className="abcd" height="500px" width="700px"></img>
           <div className="hero-overlay-text">
-        <h1>Welcome to Vivekanand College</h1>
+        <h1>Welcome to Vivekanand College!</h1>
                 <p>Your journey to excellence starts here.</p>
         <div className="button-wrapper">
         <a href="/apply" className="cta-button">Apply Now!</a>
